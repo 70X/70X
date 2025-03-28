@@ -12,8 +12,8 @@ I don't know things until I know them, but I suppose I can consider myself a sof
 
 🚀 Superpowers: Making things fast, modular, and reliable - because good code should feel like wizardry, not a crime scene! \
 🤖 Next Quest: Exploring AI & LLMs - because if robots are going to take over, I at least want them to have good manners! \
-📍 Based in Italy but always working in the cloud ☁️. A social butterfly at heart, but remote work lets me organize my chaos without anyone judging my coffee breaks! \
-🏆 Believer in strong teams, taking ownership, and tackling challenges like they're the last piece of pizza at a party.
+🏆 Believer in strong teams, taking ownership, and tackling challenges like they're the last piece of pizza at a party. \
+📍 Based in Italy but always working in the cloud. A social butterfly at heart, but remote work lets me organize my chaos without anyone judging my coffee breaks!
 
 Sharing is caring so... Let's build something awesome together! 🚀
 
