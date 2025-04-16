@@ -1,4 +1,5 @@
 # Hi there, I'm Sonia
+
 I don't know things until I know them, but I suppose I can consider myself a software engineer at this point.
 
 <p align="left">
@@ -17,10 +18,8 @@ I don't know things until I know them, but I suppose I can consider myself a sof
 
 Sharing is caring so... Let's build something awesome together! 🚀
 
-## Unsolvable issues:
+## Unsolvable issues
+
 - Why do we say "I'll just fix this one bug" and then stay up all night rewriting half the codebase?
 - Why is pizza so irresistible that no matter how full you are, there's always room for one more slice?
 - Why do cats act like royalty but still expect you to worship them 24/7?
-
-## Out of curiosity
-I've been asked why I picked '70X' as my username. Well, 'Fox' was always taken, so I had to get creative and make up something close. And then another question was inevitable: 'Why Fox?' Simple. I'm Italian, and my last name literally means 'Fox.' Plus, it's been my nickname since birth, so it's kind of my thing. 🦊
